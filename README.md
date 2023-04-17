@@ -1,4 +1,8 @@
-### Hi there 👋
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=yukari-n&theme=buefy&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yukari-n&theme=buefy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=yukari-n&margin-w=10&margin-h=10&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **yukari-n/yukari-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
